@@ -106,4 +106,4 @@ For any queries or feedback, feel free to reach out via GitHub issues or contact
 We hope this tool makes your reading experience more enjoyable and accessible. Happy listening! 🎧
 
 Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/49164633/ad155a11-0d5c-4ef7-b45f-f9ee6d9dd61a/pdf_to_aud.py
+Harsidak Singh. *PDF to Audio Converter*. 2025. Computer software. Accessed 15 Jan. 2025. https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/49164633/ad155a11-0d5c-4ef7-b45f-f9ee6d9dd61a/pdf_to_aud.py.
